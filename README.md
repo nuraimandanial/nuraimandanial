@@ -40,4 +40,4 @@ First Year Students of Computer Science in University of Malaya. Majoring in Sof
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
