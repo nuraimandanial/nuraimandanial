@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 💫 About Me:
 
-First Year Students of Computer Science in University of Malaya. Majoring in Software Engineering.<br><br>An introverted Full Stack Developer with full curiosity in learning new things! 
+Second Year Students of Computer Science in University of Malaya. Majoring in Software Engineering.<br><br>An introverted Full Stack Developer with full curiosity in learning new things! 
 
 ### 🌐 Socials:
 
