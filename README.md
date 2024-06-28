@@ -14,9 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 💫 About Me:
 
-Second Year Students of Computer Science in University of Malaya. Majoring in Software Engineering.<br><br>An introverted Full Stack Developer with full curiosity in learning new things! 
+```swift
+struct AboutMe: Identifiable {
+   var id = UUID()
+   var pronouns: String = "he/him"
+   var code: [Language] = [Javascript, HTML, CSS, Python, Java, C, Swift]
+   var technologies: [Type: [Name: [String]]] = {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"]
+      },
+      databases: ["MongoDB", "mySQL", "Firebase"],
+      mobile: ["Android", "iOS"]
+   }
+   var currentOccupation: String = "second year student, open for freelance opportunities"
+   var challenge: String = "I'm looking forward to try everything new and speedrunning mobile development in less than 3 weeks"
+}
+
+extension AboutMe {
+   static let notes: String = "An introverted Full Stack Developer with full curiosity in learning new things!"
+}
+```
 
 ### 🌐 Socials:
 
