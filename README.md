@@ -32,7 +32,7 @@ struct AboutMe: Identifiable {
       databases: ["MongoDB", "mySQL", "Firebase"],
       mobile: ["Android", "iOS"]
    }
-   var currentOccupation: String = "second year student, open for freelance opportunities"
+   var currentOccupation: String = "third year student, open for freelance opportunities"
    var challenge: String = "I'm looking forward to try everything new and speedrunning mobile development in less than 3 weeks"
 }
 
